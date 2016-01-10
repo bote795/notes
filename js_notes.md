@@ -1,6 +1,6 @@
 use promises and Deferred
 Jquery ajax requests
-```
+```javascript
 function example(){
   var deferred = $.Deferred();
    $.getJSON(yqlAPI, function(){
